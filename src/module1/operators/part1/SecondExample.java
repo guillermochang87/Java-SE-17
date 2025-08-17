@@ -1,6 +1,6 @@
 package module1.operators.part1;
 
-public class TryCatchExample {
+public class SecondExample {
 
     public static void main(String[] args) {
 

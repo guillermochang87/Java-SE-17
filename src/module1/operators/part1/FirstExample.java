@@ -1,6 +1,6 @@
 package module1.operators.part1;
 
-public class WhatHappens {
+public class FirstExample {
 
     public static void main(String[] args) {
 
@@ -10,8 +10,9 @@ public class WhatHappens {
 
         System.out.println(++a);
         System.out.println(b++);
-        // System.out.println(++c++); // This doesn't compile, the second ++ it doesn't work because there is not L value
-        
+        // System.out.println(++c++); // This doesn't compile, the second ++ it doesn't
+        // work because there is not L value
+
     }
 
 }
